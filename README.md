@@ -31,7 +31,7 @@ Please install [WordPress REST API (Version 2)](https://ja.wordpress.org/plugins
 ### 3. Start a project
 
 ```bash
-$ ionic start myApp https://github.com/lovetheidea/wpIonic/
+$ ionic start myApp https://github.com/lovetheidea/wpIonic/www/
 $ cd myApp
 $ ionic platform add ios
 $ ionic platform add android
